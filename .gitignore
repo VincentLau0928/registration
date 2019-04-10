@@ -1,0 +1,6 @@
+*.cookies
+*.pyc
+.idea/
+*.yaml
+
+!config.yaml
